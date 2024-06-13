@@ -29,25 +29,47 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kNcdEbZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Demonstration of set up DC-1 machine and Windows 10 Client machine in Microsoft Azure.<br />
+
+<p>
+<img src="https://imgur.com/RoO1IbJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set DC-1's Virtual Network Interface Card (vNIC) private IP address to be static.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5N5BhUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ensure Connectivity Between the Client and Domain Controller.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bVMTPQu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enable IMCpv4 Protocols.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/2WTKy8e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed AD and Activate Domain controller.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/CkXTu1c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created A few Folders to put our users in different categories.
 </p>
 <br />
